@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-Stack Web Developer
 ------------------------
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw37JJtc3hre59oJW-DNcBXO&ust=1728059968004000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOj1jbfT8ogDFQAAAAAdAAAAABAE">
 
 
 I am a Full-Stack Web Developer who loves React !
