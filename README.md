@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Bandhan!+👋;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&color=FFFFFF&size=30&lines=Hello+There!+👋;)
 <!-- <h1 align="center">Hi 👋, I'm Bandhan</h1> -->
 I am a Full-Stack Web Developer who loves React !<br><br>🌍  I'm based in Dhaka, Bangladesh<br>✉️  You can contact me at [rhbandhan@gmail.com](mailto:rhbandhan@gmail.com)<br>🤝  I'm open to collaborating on Projects<br>⚡  I Am Batman, Tell Everyone
 
