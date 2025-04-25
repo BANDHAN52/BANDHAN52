@@ -1,6 +1,5 @@
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am RH_Bandhan<br><br><img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVxbnJ2ZmpmNTN5d2pwd2c3ejlvNTd5MTF5aDFuMzg4cWV2eXVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"><br><br>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Bandhan!+👋;)
+<!-- <h1 align="center">Hi 👋, I'm Bandhan</h1> -->
 I am a Full-Stack Web Developer who loves React !<br><br>🌍  I'm based in Dhaka, Bangladesh<br>✉️  You can contact me at [rhbandhan@gmail.com](mailto:rhbandhan@gmail.com)<br>🤝  I'm open to collaborating on Projects<br>⚡  I Am Batman, Tell Everyone
 
 
