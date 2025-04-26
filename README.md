@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&color=77765d&size=30&lines=Hello+There!+👋;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&color=a3a288&size=30&lines=Hello+There!+👋;)
 <!-- <h1 align="center">Hi 👋, I'm Bandhan</h1> -->
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVxbnJ2ZmpmNTN5d2pwd2c3ejlvNTd5MTF5aDFuMzg4cWV2eXVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
