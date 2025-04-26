@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&color=77765d&size=30&lines=Hello+There!+👋;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&color=77765d&size=30&lines=Hello+There!+👋🏼;) 
 <!-- <h1 align="center">Hi 👋, I'm Bandhan</h1> -->
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVxbnJ2ZmpmNTN5d2pwd2c3ejlvNTd5MTF5aDFuMzg4cWV2eXVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -11,7 +11,7 @@ I am a Full-Stack Web Developer who loves React !<br><br>🌍  I'm based in Dha
 #### Contact 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rhbandhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.instagram.com/rh___bandhan">
     <img src="https://img.shields.io/badge/Instagram-green?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
